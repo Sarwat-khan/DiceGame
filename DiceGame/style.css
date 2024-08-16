@@ -1,0 +1,63 @@
+
+.bungee-tint-regular {
+    font-family: "Bungee Tint", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+    
+    body {
+      font-family: Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #ffffff;
+  }
+  
+  .container {
+      text-align: center;
+      width: 100%;
+      max-width: 600px;
+      margin: 0 auto;
+  }
+  
+    
+  #div1, #div2 {
+      display: inline-block;
+      width: 45%;
+      margin: 0 2.5%;
+      vertical-align: top;
+  }
+  
+  #div1 h2, #div2 h2 {
+      margin-top: 0;
+  }
+  
+  #div1 img, #div2 img {
+      width: 100px;
+      height: auto;
+      display: block;
+      margin: 0 auto;
+  }
+  
+  .button-1 {
+      display: block;
+      margin: 20px auto;
+      padding: 10px 20px;
+      font-size: 16px;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+  }
+  
+  .button-1:hover {
+      background-color: #0056b3;
+  }
+  
+      
+
+
+  
